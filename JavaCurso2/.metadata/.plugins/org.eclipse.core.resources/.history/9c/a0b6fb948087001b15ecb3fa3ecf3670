@@ -1,0 +1,16 @@
+package unidade2;
+
+public class InternetAPP implements Internet {
+
+	@Deprecated
+	public void conectar() {
+		
+	}
+
+	@Override
+	public void conectarSSL() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,17 @@
+package unidade2;
+
+public class InternetAPP implements Internet {
+
+	@Override
+	public void conectar() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void conectarSSL() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

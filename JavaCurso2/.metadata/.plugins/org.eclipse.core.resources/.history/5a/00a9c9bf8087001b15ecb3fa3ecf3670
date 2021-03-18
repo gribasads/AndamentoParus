@@ -1,0 +1,16 @@
+package unidade2;
+@Copyright(autor="Gustavo Bastos Ribas",data="17/03/21",versao="1.0")
+public class InternetAPP implements Internet {
+
+	@Deprecated
+	public void conectar() {
+		
+	}
+
+	@Override
+	public void conectarSSL() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

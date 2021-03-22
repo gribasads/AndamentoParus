@@ -13,4 +13,14 @@
     <fullyQualifiedTypeName name="java.nio.file.DirectoryStream"/>
     <fullyQualifiedTypeName name="java.nio.file.Files"/>
     <fullyQualifiedTypeName name="java.nio.file.StandardCopyOption"/>
+    <fullyQualifiedTypeName name="unidade3.ExemploGenerics"/>
+    <fullyQualifiedTypeName name="unidade3.ExemploGenerics2"/>
+    <fullyQualifiedTypeName name="java.util.TreeSet"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Deque"/>
+    <fullyQualifiedTypeName name="java.util.ArrayDeque"/>
 </qualifiedTypeNameHistroy>

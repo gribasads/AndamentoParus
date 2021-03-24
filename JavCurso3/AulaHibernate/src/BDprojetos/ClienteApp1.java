@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class ClienteApp1 {
-    static String url="jdbc:oracle:thin:@ip:1521:schema";
+    static String url="jdbc:oracle:thin:@localhost:1521:XE";
     static String usuario="C##CURSO_JAVA";
     static String senha="schema";
     static Connection conexao;

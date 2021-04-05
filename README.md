@@ -1,3 +1,1 @@
-# AndamentoParus
-
-Repositório criado para o acompanhamento dos exercicios dos curso
+branch para docker do curso JavaMS

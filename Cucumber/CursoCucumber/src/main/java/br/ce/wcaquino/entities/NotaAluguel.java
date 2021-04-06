@@ -5,6 +5,7 @@ import java.util.Date;
 public class NotaAluguel {
 	private int preco;
 	private Date dataEntrega;
+	private int pontuacao;
 
 	public int getPreco() {
 		return preco;
@@ -23,6 +24,14 @@ public class NotaAluguel {
 		dataEntrega= time;
 		
 		
+	}
+
+	public int getPontuacao() {
+		// TODO Auto-generated method stub
+		return pontuacao;
+	}
+	public void setPontuacao(int pontuacao) {
+		this.pontuacao = pontuacao;
 	}
 	
 

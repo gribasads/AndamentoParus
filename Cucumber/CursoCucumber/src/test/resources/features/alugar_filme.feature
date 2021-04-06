@@ -17,3 +17,12 @@ Dado um filme com estoque de 0 unidade
 Quando alugar
 Entao não sera possivel por falta de estoque
 E o estoque do filme sera 0 unidade
+
+Cenario: Deve dar condições especiais para a categoria extendida
+Dado um filme com estoque de 2 unidades
+E que o preço seja R$ 4
+E que o tipo do aluguel seja extendido
+Quando alugar
+Entao o preço do aluguel sera R$8
+E a data de entrega será em 3 dias
+E a pontuação recebida será de 2 pontos

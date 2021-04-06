@@ -69,5 +69,22 @@ public class AlugarFilmeSteps {
 		Assert.assertEquals("filme sem estoque", erro);
 
 	}
+	@Dado("^que o tipo do aluguel seja extendido$")
+	public void que_o_tipo_do_aluguel_seja_extendido() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@Entao("^a data de entrega será em (\\d+) dias$")
+	public void a_data_de_entrega_será_em_dias(int arg1) throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@Entao("^a pontuação recebida será de (\\d+) pontos$")
+	public void a_pontuação_recebida_será_de_pontos(int arg1) throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
 
 }
